@@ -47,6 +47,3 @@ If you found value in something I've helped create or have helpful tips on possi
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JulieWilson1013/JulieWilson1013/snake-output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/JulieWilson1013/JulieWilson1013/snake-output/github-contribution-grid-snake.svg"/>
-</p> -->
