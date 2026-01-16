@@ -40,10 +40,12 @@ If you found value in something I've helped create or have helpful tips on possi
 </a>
 </div>  
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/millette/millette/snake-output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/millette/millette/snake-output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/millette/millette/snake-output/github-contribution-grid-snake.svg"/>
   </picture>
+</p> -->
+<p align="center">
 </p>
