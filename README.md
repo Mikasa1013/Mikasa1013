@@ -2,17 +2,6 @@
 
 <h1 align="center">Hey there 👋</h1>
 
-<div align="center" style="margin-bottom:1rem">
-  <a href="https://linkedin.com/in/kherrarte" target="blank">
-    <img align="center" src="https://img.shields.io/badge/kherrarte-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/kevin_tech" target="blank">
-    <img align="center" src="https://img.shields.io/badge/kevin_tech-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#">
-    <img align="center" src="https://img.shields.io/github/followers/kevintech?style=social" />
-  </a>
-</div>
 
 I'm Julie Wilson, Accomplished Full-Stack Developer with 4 years of hands-on experience
 delivering production-ready web applications across SaaS, fintech, and agency
