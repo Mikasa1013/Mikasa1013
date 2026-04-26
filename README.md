@@ -3,7 +3,7 @@
 <h1 align="center">Hey there!!! 👋</h1>
 
 
-I'm Juling, Accomplished Full-Stack Developer with 5+ years of hands-on experience
+I'm Julie Wilson, Accomplished Full-Stack Developer with 5+ years of hands-on experience
 delivering production-ready web applications across SaaS, fintech, and agency
 environments. Swedish-born professional fluent in English and Swedish, with a
 proven ability to build scalable solutions using React, NodeJS, TypeScript, and
